@@ -14,4 +14,12 @@ Steps to run appication
 
 Note: Keep web api applicaton in running mode. 
 
+#Hacker News Unit Testing App
+Created separate project for Unit Test and used below NuGet packages:
+xUnit runner visualstudio Testing framwork Version: 2.4.2
+Moq Version: 4.20.70
+FluentAssertions Version: 6.12.0
+
+Note: Run All Tests under Test menu or right click on Test project and click Run Test for run Unit Test case.
+
 Thanks for reading.
